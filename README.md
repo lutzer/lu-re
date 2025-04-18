@@ -34,7 +34,6 @@ html generator for lu-re.de
 - maybe switch inconsolata with serif for heavy text parts
 - put graphic on front page on top
 - maybe reduce letter spacing
-- about me make sub headlines bold
 - Reformat exhibition list, column with years
 - meta data for projects: date, tag, role in project, 
 - Fix Iphone bugs:
