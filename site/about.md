@@ -134,17 +134,23 @@ Get in touch with me by writing to <a id="email-address" href="">lutz AT lu-re D
 <div id="jobs" class="list">
 
 ## Jobs
+* # 2025 - now
+  *Design Researcher and Programmer* in Project "Minodu – Fostering local sustainable development through research and technology" at the DFKI and Universite de Kara
+
 * # 2022 - now
-  *Creative Coder* at NEEEU, Development of AR Experiences and Platform Applications
+  *Creative Coder* at NEEEU, Development of VR/AR experiences, web applications, hardware prototypes and digital installations in the context of museums and exhibitions.
 
 * # 2020 - 2021
-  *Researcher*: Development of a DIY Voice Interface Kit at Design Research Lab of the University of Arts Berlin. *Freelancer*: Full-stack development of several web applications.
+  *Researcher*: Development of a DIY Voice Interface Kit at Design Research Lab of the University of Arts Berlin. 
+
+* # 2020 - 2021
+  Full-stack development of several web applications as *Freelance Designer and Developer*:
 
 * # 2017 - 2020
   Working as a *Creative Technologist* in the UX Design department at Future Center Europe (Volkswagen AG) in Potsdam on the topics of autonomous driving and mobility services.
 
 * # 2016 - 2017
-  Working as a *Freelance Designer and Programmer*.
+  Working as a *Freelance Designer and Programmer* on several web applications.
 
 * # 2016 - 2016
   *Researcher* at Design Research Lab at the University of Arts Berlin in Project MAZI and Project Community Infrastructuring.
