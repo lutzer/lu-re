@@ -6,7 +6,7 @@ color: 4
 date: 2022-01-01
 ---
 
-*This project is an AR experience commissioned by Phonak to tease their new product Audéo Sphere Infinio. This hearing aid is the first one worldwide to use AI for emphasising that one conversation you want to listen to. By activating the DEEPSONIC chip, customers can experience the effect first hand.*
+*This project is an AR experience commissioned by Phonak to tease their new product Audéo Sphere Infinio. This hearing aid uses AI for emphasising that one conversation you want to listen to. This app simulates the effect of Phonak's DEEPSONIC technology.*
 
 <span class="more"></span>
 
@@ -22,4 +22,4 @@ By activating the chip in our Teaser users can sense the effect and both in visu
   <iframe src="http://player.vimeo.com/video/1017925410?byline=0&color=ff9933" width="600" height="338" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
-*Created with the team at NEEEU.*
+*Created in collaboration with the team at NEEEU Spaces GmbH.*

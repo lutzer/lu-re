@@ -1,5 +1,5 @@
 ---
-title: Augmented City Model of Kölln
+title: Augmented City Model of Köln
 tags: project
 thumbnail: large_People_Augmented_Reality_City_Model_4cd268ed9b.webp
 color: 6
@@ -20,8 +20,8 @@ The AR application guides visitors through the various stages of growth and tran
   <iframe src="http://player.vimeo.com/video/1029554469?byline=0&color=ff9933" width="600" height="338" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
-Through captivating "wow" moments in the experience, visitors are inspired to delve deeper into information that is often overlooked in traditional presentations. Artistic interpretations of architectural elements of security throughout time, piles of garbage falling onto the model or a visual representation of famous ceremonies keep younger audience engaged.
+Through captivating moments in the experience, visitors are inspired to delve deeper into information that is often overlooked in traditional presentations. Artistic interpretations of architectural elements of security throughout time, piles of garbage falling onto the model or a visual representation of famous ceremonies keep younger audiences engaged.
 
 {% image, "large_Creative_Hero_Moments_AR_Sculptures_15b08a5535.webp", "Three app screenshots", null, "image" %}
 
-*Created with the team at NEEEU in collaboration with the Koellnisches Stadtmuseum*
+*Created with the team at NEEEU in collaboration with the Kölnisches Stadtmuseum*
