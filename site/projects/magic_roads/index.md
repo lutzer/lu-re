@@ -1,7 +1,7 @@
 ---
 title: Magic Roads to Aliso
 tags: project
-thumbnail: thumb.png
+thumbnail: thumb.jpeg
 color: 1
 date: 2022-04-01
 ---
@@ -10,7 +10,7 @@ date: 2022-04-01
 
 <span class="more"></span>
 
-{% image, "thumb.png", "The polynation of the architecture", null, "image" %}
+{% image, "thumb.jpeg", "The polynation of the architecture", null, "image" %}
 
 "Magic Roads to Aliso" puts you back 2000 years in the role of a 17-year-old Roman who is faced with far-reaching decisions: Do you want to take over your father's pottery business? Or do you embark on an adventure and join the Roman legion in the Roman camp of Aliso?
 
@@ -28,7 +28,7 @@ The story of Lucius and the augmented reality scenes, which make skeletons dance
 
 <div class="gallery">
 {% image, "dices.png", "", null, "image contain" %}
-{% image, "chicken.png", "", null, "image contain" %}
+{% image, "chicken.jpeg", "", null, "image contain" %}
 {% image, "treueid.png", "", null, "image contain" %}
 </div>
 

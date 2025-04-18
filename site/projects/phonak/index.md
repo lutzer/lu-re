@@ -1,7 +1,7 @@
 ---
 title: Phonak App Teaser
 tags: project
-thumbnail: thumb.png
+thumbnail: thumb.jpg
 color: 4
 date: 2022-01-01
 ---
