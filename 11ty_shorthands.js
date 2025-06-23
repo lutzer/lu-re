@@ -11,7 +11,7 @@ module.exports = function(eleventyConfig, config) {
   async function imageShortcode(src, alt, sizes, divClass) {
 
     const imgPath = path.join(path.dirname(this.page.inputPath), src)
-    sizes = _.isEmpty(sizes) ? [700, 1400, "auto"] : sizes
+    sizes = _.isEmpty(sizes) ? [700, 1400, 1920, "auto"] : sizes
 
     let metadata = await Image(imgPath, {
       widths: sizes,
@@ -24,7 +24,7 @@ module.exports = function(eleventyConfig, config) {
       alt,
       sizes,
       loading: "lazy",
-      decoding: "async",
+      decoding: "async"
     }
 
     const image = Image.generateHTML(metadata, imageAttributes)

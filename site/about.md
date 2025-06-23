@@ -137,7 +137,7 @@ Get in touch with me by writing to <a id="email-address" href="">lutz AT lu-re D
 * # 2025 - now
   *Design Researcher and Programmer* in Project "Minodu – Fostering local sustainable development through research and technology" at the DFKI and Universite de Kara
 
-* # 2022 - now
+* # 2022 - 2025
   *Creative Coder* at NEEEU, Development of VR/AR experiences, web applications, hardware prototypes and digital installations in the context of museums and exhibitions.
 
 * # 2020 - 2021
