@@ -15,7 +15,9 @@ date: 2016-01-01
 The design and implementation of the Hybrid Letterbox was developed in the context of the project Community Infrastructuring at the University of Arts Berlin (Universität der Künste). The project investigates the role of design in fostering social communities in an urban context. The concept of the Hybrid Letterbox relies on the process of idea-sharing as a motor for social interaction. It animates locals to a playful, but also serious reflection on the local urban environment, utilising the public space. Through a horizontal discourse, issues within the neighbourhood are identified and vocalised, stimulating cooperations within the communities and at the same time providing researchers with material on how the locals perceive their environment.
 
 <div class="iframe-with-asp" style="padding-bottom: 56%;">
-  <iframe src="https://player.vimeo.com/video/109597975" width="600" height="338" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  <div class="iframe-with-asp" style="padding-bottom: 56%;">
+    <iframe src="https://www.youtube.com/embed/GQefPY_fNxw?si=bbqcQKoC1AHhrziC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
 </div>
 
 The Hybrid Letterbox is designed as a simple mailbox, scanning submitted postcards and uploading them to a website. The postcards are asking people to vocalize issues and ideas for their local neighbourhood. A touchscreen displays a collection of submissions, allowing users to see what others have posted. Multiple Letterboxes can be installed at different locations and be easily connected to share their collected data.

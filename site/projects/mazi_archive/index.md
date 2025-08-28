@@ -1,6 +1,6 @@
 ---
 title: Mazi Archive
-tags: project
+tags: project-hidden
 thumbnail: thumb.jpg
 color: 6
 date: 2015-03-01

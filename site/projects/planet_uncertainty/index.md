@@ -1,6 +1,6 @@
 ---
 title: Planet Uncertainty
-tags: project
+tags: project-hidden
 thumbnail: thumb.jpg
 date: 2012-01-01
 color: 5
