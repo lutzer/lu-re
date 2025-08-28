@@ -2,7 +2,7 @@
 title: "Factory International"
 tags: project
 thumbnail: thumb.webp
-color: 0
+color: 1
 date: 2024-03-01
 ---
 

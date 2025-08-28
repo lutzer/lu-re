@@ -2,7 +2,7 @@
 title: Augmented City Model of Köln
 tags: project
 thumbnail: large_People_Augmented_Reality_City_Model_4cd268ed9b.webp
-color: 6
+color: 0
 date: 2024-03-01
 ---
 

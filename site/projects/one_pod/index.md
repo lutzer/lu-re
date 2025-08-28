@@ -3,7 +3,7 @@ title: OnePod Concept Study
 tags: project
 thumbnail: thumb.jpg
 date: 2019-12-01
-color: 5
+color: 6
 ---
 *A glimpse into the future of urban and transport planning: the OnePod concept study was developed at the Future Center Europe to demonstrate the next generation of autonomous mobility solutions.*
 
