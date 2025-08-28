@@ -12,7 +12,7 @@ I worked in several <a class="anchor-link" href="#jobs">jobs</a> as a creative t
 
 A list of my <a class="anchor-link" href="#exhibitions">exhibitions & publications</a> is compiled below. is compiled below.
 
-Get in touch with me by writing to <a id="email-address" href="">lutz AT lu-re DOT de</a>.
+Get in touch with me by writing to <a id="email-address" href="">lutz AT lu-re DOT de</a> or contact me on [LinkedIn](https://www.linkedin.com/in/lutz-reiter-332b382b7/).
 
 <div id="exhibitions" class="list">
 
