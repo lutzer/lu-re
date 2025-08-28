@@ -1,25 +1,30 @@
 ---
-title: OnePod
-tags: project-hidden
+title: OnePod Concept Study
+tags: project
 thumbnail: thumb.jpg
-date: 2018-05-01
+date: 2019-12-01
 color: 5
 ---
-*Eine Vision, wie sich Stadt- und Verkehrsplanung in urbanen Gebieten zukünftig gestalten könnte: Die Konzeptstudie OnePod.*
+*A glimpse into the future of urban and transport planning: the OnePod concept study was developed at the Future Center Europe to demonstrate the next generation of autonomous mobility solutions.*
 
 <span class="more"></span>
 
-{% image, "thumb.jpg", "OnePod Konzept Studie", null, "image" %}
+{% image, "onepod.jpg", "OnePod Concept Study", null, "image" %}
 
-So zeigt das Volkswagen DRIVE Forum unter anderem das selbstfahrende, elektrische Konzeptfahrzeug OnePod, welches das Volkswagen Group Future Center Europe in Potsdam entwickelt hat. Der Name OnePod verdeutlicht die Idee und das Selbstverständnis der neuen Konzeptstudie von Volkswagen, denn „One“ steht für „One Solution for all“.
+### Adaptive Design for Universal Access
+The concept vehicle features a flexible interior that can be reconfigured for various applications, including deployment as an autonomous taxi providing comprehensive "mobility as a service." Two expansive swing doors on one side ensure effortless entry and exit for all passengers, including those with accessibility requirements. Upon arrival, the OnePod intelligently detects the curb and automatically adjusts its interior floor to street level, providing seamless, step-free access for wheelchair users and families with prams.
 
-- Der Innenraum der Studie ist für unterschiedliche Aufgaben konfigurierbar, so zum Beispiel als Robotaxi, das „Mobilität als Service“ bietet.
-- Zwei große Schwenktüren auf einer Seite ermöglichen einen bequemen komfortablen Einstieg, auch für Menschen mit besonderen Bedürfnissen.
-- Der OnePod erkennt bei Ankunft die Bordsteinkante und senkt den Innenboden auf dieses Niveau ab, somit haben Kinderwagen und Rollstuhlfahrer einen stufenlosen Zugang zum Innenraum
-- Der Fahrgast wird vom Auto erkannt, die Türen öffnen automatisch beim Herantreten. Ein Display in der Tür informiert den Benutzer.
-- In den verstellbaren Armlehnen sind für eine möglichst intuitive Bedienung Steuerungselemente integriert, welche u. A. die am Dachhimmel verbauten Informationen fernbedient.
-- Durch die großflächigen Fenster im Dach und Seite haben die Gäste eine optimale Aussicht.
-- Außenkommunikation durch Signale in Lichtstreifen informieren und warnen andere Verkehrsteilnehmer.
-- Am Heck des OnePod ist ein herunterklappbarer Fahrradträger; mit einem Gurt können Sattel und Lecker für einen sicheren Transport fixiert werden.
+### Intuitive User Experience
+The vehicle incorporates advanced passenger recognition technology, automatically opening doors as users approach while displaying relevant information through an integrated door display. Thoughtfully designed control elements are embedded within adjustable armrests, enabling intuitive operation and remote control of the ceiling-mounted information display. Panoramic windows spanning the roof and sides offer passengers an immersive view of their surroundings.
+
+### Smart Communication and Versatility
+External communication is facilitated through intelligent light strip signals that inform and alert other road users. The OnePod also features a practical fold-down bicycle rack at the rear, complete with secure strapping systems for safe transport of bikes during journeys.
+
+{% image, "onepod_interior.jpg", "OnePod Interior", null, "image" %}
+
+### My Contribution
+My work focused on developing the passenger recognition system and optimizing the boarding experience. This involved creating seamless connectivity with users' smartphones and designing an integrated guidance system that utilizes a dedicated mobile app, exterior-mounted displays, and strategically placed visual elements both inside and outside the pod to facilitate smooth onboarding and offboarding procedures.
+
+{% image, "pod.jpg", "OnePod Study photo", null, "image" %}
 
 *The OnePod was developed at the Future Center Europe.*

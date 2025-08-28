@@ -1,6 +1,6 @@
 ---
 title: Codevember Sketches
-tags: project
+tags: project-hidden
 thumbnail: day27.png
 date: 2020-01-31
 color: 6

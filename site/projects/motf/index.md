@@ -26,4 +26,10 @@ In the conference track “Memories of the Future” we have worked on how to co
 {% image, "screen7.jpeg", "App screenshot", null, "image" %}
 </div>
 
+### Technology Stack
+
+The frontend is developed in React, leveraging the power of ImageMagick and FFmpeg within the audio processing pipeline. It captures live audio streams from the user's microphone, processes them in-browser or via streaming, and continuously sends recordings to the backend for persistence.
+
+The backend is built as a Node.js application using the Express framework. It handles incoming audio data and stores metadata or recordings using Lowdb, a lightweight, file-based JSON storage solution.
+
 *Created in collaboration with Bianca Herlo and Tomma Suki Hinrichsen at Design Research Lab.*

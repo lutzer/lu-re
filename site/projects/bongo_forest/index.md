@@ -2,7 +2,7 @@
 title: Bongo Forest
 tags: project
 thumbnail: thumb2.png
-date: 2018-08-01
+date: 2019-08-01
 color: 2
 ---
 *An Interactve Audio Visual installation build out of 12 drums placed in the trees sourounding a clearing. Visitors can interact with it by playing a drum placed in the middle of the clearing. It was constructed for The Wilde Moehre Festival 2018.*

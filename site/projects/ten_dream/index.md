@@ -3,7 +3,7 @@ title: "&#35;10 Dream"
 tags: project
 thumbnail: render.png
 color: 0
-date: 2020-08-01
+date: 2018-08-01
 ---
 
 *The phase of sleep is one of the most intimate and silent recurring moments of life. #10 Dream is an audio-visual installation, that is capturing this very intimate moment, making it tangible to the visitor by actuating two long piano strings with pre-recorded EEG data.*
@@ -15,7 +15,7 @@ date: 2020-08-01
 One of the strings is actuated by human brainwaves, the other one by the mind of a rat. The listener is experiencing the subconscious activity of both minds joined together. But even though this seems to be a very unlike couple, both sleeping patterns sound surprisingly similar. During sleep, the brain’s activity is very dynamic. It goes through multiple episodes of changes, constantly switching between non-REM and REM episodes. Because the brain’s activity is very similar to the waking state it is also called paradoxical sleep. It is the state when dreaming occurs. Even though these episodes show very similar activity patterns among different species, duration and repetitions vary between species, but also between ages.
 
 <div class="iframe-with-asp" style="padding-bottom: 56%;">
-  <iframe src="http://player.vimeo.com/video/266915310?byline=0&amp;color=ff9933" width="600" height="338" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  <iframe src="https://www.youtube.com/embed/LZ220Gfbyxg?si=HgQXwTWMFt99QYAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 These always changing activity patterns construct two constantly changing sonic environments that interfere with each other through the resonance of the strings. The two minds, that are very alien to each other, disperse into one interlaced dream-like soundscape. Simultaneously the brainwaves are visualized on an oscilloscope standing next to the installation, to give the observer an idea on how these sounds are created.
