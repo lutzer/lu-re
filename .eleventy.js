@@ -16,6 +16,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy(config.INPUT_DIR + "/css")
   eleventyConfig.addWatchTarget(config.INPUT_DIR + "/css/")
 
+  // add versioon from package json
+  eleventyConfig.addGlobalData("version", require("./package.json").version);
+
   shorthands(eleventyConfig, config)
   filters(eleventyConfig, config)
 
