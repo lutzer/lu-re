@@ -11,7 +11,7 @@ bodyClass: false
     <link rel="stylesheet" href="/assets/styles.css">
   </head>
   <body {% if bodyClass %} class="{{ bodyClass }}" {% endif %}>
-    <script src="/assets/bundle.js"></script>
+    <script src="/assets/bundle.js?v=0.1"></script>
     {{ content | safe }}
   </body>
 </html>

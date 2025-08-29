@@ -14,7 +14,7 @@ sketches: [
 start_sketch: 4
 ---
 
-# Hej, my name is Lutz Reiter.
+# Hej, my name is Lutz Reiter2.
 
 I am a Berlin based creative technologist, coder and designer of curious things. I like to create both the useful and the seemingly useless things. In my work I explore the intersection of the digital and the physical world. I enjoy building and designing interactive art, visualizations, non-conventional interfaces, tools and sounds.
 
