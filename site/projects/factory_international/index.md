@@ -8,6 +8,8 @@ date: 2024-03-01
 
 *Marking the launch of Factory Settings, iconic British fashion designer Gareth Pugh joins forces with digital artist Natalie Liu and Berlin-based creative studio NEEEU on a series of new Snapchat filters.*
 
+<span class="more"></span>
+
 {% image, "thumb.webp", "Final Letterbox", null, "image" %}
 
 [Link to the app](https://factoryinternational.org/whats-on/factory-settings/)
