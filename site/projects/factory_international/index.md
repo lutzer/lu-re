@@ -47,6 +47,15 @@ Ready to explore? Download Factory Settings app for iPhone here and Android here
   {% image, "sachs2.png", "Final Letterbox", null, "image" %}
 </div>
 
+<div class="iframe-with-asp" style="padding-bottom: 56%;">
+  <iframe width="315" height="560"
+    src="https://www.youtube.com/embed/7ZcexqFLPUk?si=imveIlYb1p1a3Hdj"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
+</div>
+
 ### Host App & Technology Stack
 
 Built with Flutter for cross-platform consistency, the app was designed for easy maintenance and extensibility. A custom native plugin integrates Snapchat's CameraKit library, enabling dynamic loading of AR lenses from the Snapchat ecosystem and allowing lens creators to easily add their experiences to the platform.
