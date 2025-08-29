@@ -8,7 +8,7 @@ date: Last Modified
 
 My <a class="anchor-link" href="#education">educational background</a> spans interaction design, programming and biology. I started with a bachelor's degree in Bioinformatics in Berlin, followed by several years working in neurobiology and behavioural science. I later completed a master's degree in Interaction Design in Gothenburg.
 
-I worked in several <a class="anchor-link" href="#jobs">jobs</a> as a creative technologist, design engineer, researcher, coder and ux designer as well as a freelancer in the fields of media arts, urban design, social- and interaction design, automotive design and autonomous driving. I have extensive experience working with AI and VR applications. I am building hard- and software prototypes, interactive installations, web and mobile applications.
+I worked in several <a class="anchor-link" href="#jobs">jobs</a> as a creative technologist, design engineer, researcher, coder and ux designer as well as a freelancer in the fields of media arts, urban design, social- and interaction design, automotive design and autonomous driving. I have extensive experience working with AR and VR applications. I am building hard- and software prototypes, interactive installations, web and mobile applications.
 
 A list of my <a class="anchor-link" href="#exhibitions">exhibitions & publications</a> is compiled below. is compiled below.
 
