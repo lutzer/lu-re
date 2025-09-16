@@ -139,40 +139,40 @@ Get in touch with me by writing to <a id="email-address" href="">lutz AT lu-re D
 
 ## Jobs
 * # 2025 - now
-  *Freelance Design Researcher and Software Developer* at Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI) in Project 'Minodu – Fostering local sustainable development through research and technology'. Conducting research and implementation of an offline AI-enabled agricultural knowledge transfer platform targeting non-literate farmers in rural Togo.
+  *Freelance Design Researcher and Software Developer* at **Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)** in Project 'Minodu – Fostering local sustainable development through research and technology'. Conducting research and implementation of an offline AI-enabled agricultural knowledge transfer platform targeting non-literate farmers in rural Togo.
 
 * # 2022 - 2025
-  *Creative Coder and Technologist* at NEEEU, Developed multiple interactive VR/AR experiences and digital installations for cultural institutions including Manchester Factory International, Martin-Gropius-Bau Berlin, Science Museum London and Kölnisches Stadtmuseum. Combining custom hardware prototypes with mobile and web applications and 3D visualizations.
+  *Creative Coder and Technologist* at **NEEEU Spaces**, Developed multiple interactive VR/AR experiences and digital installations for cultural institutions including Manchester Factory International, Martin-Gropius-Bau Berlin, Science Museum London and Kölnisches Stadtmuseum. Combining custom hardware prototypes with mobile and web applications and 3D visualizations.
 
 * # 2020 - 2021
-  *Researcher* in Projekt “Tools” at University of Arts Berlin (UdK). Concept and development of a DIY voice interface hardware kit and a software library. Conducted workshops and exhibitied at Republica 2022 and Futurium Berlin.
+  *Researcher* in Projekt “Tools” at **University of Arts Berlin (UdK)**. Concept and development of a DIY voice interface hardware kit and a software library. Conducted workshops and exhibitied at Republica 2022 and Futurium Berlin.
 
 * # 2020 - 2021
   Full-stack development of several web applications as *Freelance Designer and Developer*:
 
 * # 2017 - 2020
-  *Creative Technologist* in the UX Design department at Future Center Europe (Volkswagen AG) leading autonomous driving interface and service innovation and mentoring junior designers. Developed multiple soft and hardware prototypes with a focus on mobility as a service, autonomous driving and accessibility design. Designed prototypes and services around autonomous driving and fleet management. Conducted user tests.
+  *Creative Technologist* in the UX Design department at **Future Center Europe (Volkswagen AG)** leading autonomous driving interface and service innovation and mentoring junior designers. Developed multiple soft and hardware prototypes with a focus on mobility as a service, autonomous driving and accessibility design. Designed prototypes and services around autonomous driving and fleet management. Conducted user tests.
 
 * # 2016 - 2017
-  *Design Researcher* in the Project “CHEST - Connecting Digital Strangers” at University of Arts Berlin (UdK): conceptualising, prototyping and construction of several physical and digital interfaces that explored the possibilities of offline networks. Conducted multiple participatory workshops.
+  *Design Researcher* in the Project “CHEST - Connecting Digital Strangers” at **University of Arts Berlin (UdK)**: conceptualising, prototyping and construction of several physical and digital interfaces that explored the possibilities of offline networks. Conducted multiple participatory workshops.
 
 * # 2014 - 2017
-  Working as a *Freelance Designer* and Programmer on several projects concerning media arts, tangible prototyping, user experience and interface design, mobile app and web programming. Among my partners are Universität der Künste Berlin, SPD, Bundesdruckerei und Leuphana Universität Lüneburg.
+  Working as a *Freelance Designer and Programmer* on several projects concerning media arts, tangible prototyping, user experience and interface design, mobile app and web programming. Among my partners are Universität der Künste Berlin, SPD, Bundesdruckerei und Leuphana Universität Lüneburg.
 
 * # 2013 - 2014
-  *Research Assistant* at Universität der Künste, Design Research Lab, Project Community Infrastructuring, Developing and implementing several concepts for researching and improving neighbourly interactions in urban communities.
+  *Research Assistant* at **Universität der Künste, Design Research Lab**, Project Community Infrastructuring, Developing and implementing several concepts for researching and improving neighbourly interactions in urban communities.
 
 * # 2010 - 2011
-  *Research Assistant* at Charité Universitaätsmedizin Berlin, Neurocure, Cognitive Neurobiolgy, Development of a camera based cage for conditioning small animals and for the evaluation of their behaviours.
+  *Research Assistant* at **Charité Universitaätsmedizin Berlin**, Neurocure, Cognitive Neurobiolgy, Development of a camera based cage for conditioning small animals and for the evaluation of their behaviours.
 
 * # 2009 - 2010
-  *Research Assistant* at AG Neurobiology, Freie Universität Berlin, Developed various tools to track and analyze flightpaths of honeybees on radarimages. Field experiments with honeybees. Development of camera based tracking system for drosophila flies.
+  *Research Assistant* at **AG Neurobiology, Freie Universität Berlin**, Developed various tools to track and analyze flightpaths of honeybees on radarimages. Field experiments with honeybees. Development of camera based tracking system for drosophila flies.
 
 * # 2009 - 2009
-  AG Artificial Intelligence, Freie Universität Berlin, work on the RoboBee Project, programming work and field experiments
+  *Research Assistant* at **AG Artificial Intelligence, Freie Universität Berlin**, work on the RoboBee Project, programming work and field experiments
 
 * # 2005 - 2005
-  Hebbel Theater Berlin, internship as stage technician
+  Internship as stage technician at **Hebbel Theater Berlin**
 
 </div>
 <div id="education" class="list">
