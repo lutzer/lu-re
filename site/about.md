@@ -10,7 +10,7 @@ My <a class="anchor-link" href="#education">educational background</a> spans int
 
 I worked in several <a class="anchor-link" href="#jobs">jobs</a> as a creative technologist, design engineer, researcher, coder and ux designer as well as a freelancer in the fields of media arts, urban design, social- and interaction design, automotive design and autonomous driving. I have extensive experience working with AR and VR applications. I am building hard- and software prototypes, interactive installations, web and mobile applications.
 
-A list of my <a class="anchor-link" href="#exhibitions">exhibitions & publications</a> is compiled below. is compiled below.
+A list of my <a class="anchor-link" href="#exhibitions">exhibitions & publications</a> is compiled below.
 
 Get in touch with me by writing to <a id="email-address" href="">lutz AT lu-re DOT de</a> or contact me on [LinkedIn](https://www.linkedin.com/in/lutz-reiter-332b382b7/).
 
@@ -139,37 +139,34 @@ Get in touch with me by writing to <a id="email-address" href="">lutz AT lu-re D
 
 ## Jobs
 * # 2025 - now
-  *Design Researcher and Programmer* in Project "Minodu – Fostering local sustainable development through research and technology" at the DFKI and Universite de Kara
+  *Freelance Design Researcher and Software Developer* at Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI) in Project 'Minodu – Fostering local sustainable development through research and technology'. Conducting research and implementation of an offline AI-enabled agricultural knowledge transfer platform targeting non-literate farmers in rural Togo.
 
 * # 2022 - 2025
-  *Creative Coder* at NEEEU, Development of VR/AR experiences, web applications, hardware prototypes and digital installations in the context of museums and exhibitions.
+  *Creative Coder and Technologist* at NEEEU, Developed multiple interactive VR/AR experiences and digital installations for cultural institutions including Manchester Factory International, Martin-Gropius-Bau Berlin, Science Museum London and Kölnisches Stadtmuseum. Combining custom hardware prototypes with mobile and web applications and 3D visualizations.
 
 * # 2020 - 2021
-  *Researcher*: Development of a DIY Voice Interface Kit at Design Research Lab of the University of Arts Berlin. 
+  *Researcher* in Projekt “Tools” at University of Arts Berlin (UdK). Concept and development of a DIY voice interface hardware kit and a software library. Conducted workshops and exhibitied at Republica 2022 and Futurium Berlin.
 
 * # 2020 - 2021
   Full-stack development of several web applications as *Freelance Designer and Developer*:
 
 * # 2017 - 2020
-  Working as a *Creative Technologist* in the UX Design department at Future Center Europe (Volkswagen AG) in Potsdam on the topics of autonomous driving and mobility services.
+  *Creative Technologist* in the UX Design department at Future Center Europe (Volkswagen AG) leading autonomous driving interface and service innovation and mentoring junior designers. Developed multiple soft and hardware prototypes with a focus on mobility as a service, autonomous driving and accessibility design. Designed prototypes and services around autonomous driving and fleet management. Conducted user tests.
 
 * # 2016 - 2017
-  Working as a *Freelance Designer and Programmer* on several web applications.
+  *Design Researcher* in the Project “CHEST - Connecting Digital Strangers” at University of Arts Berlin (UdK): conceptualising, prototyping and construction of several physical and digital interfaces that explored the possibilities of offline networks. Conducted multiple participatory workshops.
 
-* # 2016 - 2016
-  *Researcher* at Design Research Lab at the University of Arts Berlin in Project MAZI and Project Community Infrastructuring.
-
-* # 2014 - 2016
+* # 2014 - 2017
   Working as a *Freelance Designer* and Programmer on several projects concerning media arts, tangible prototyping, user experience and interface design, mobile app and web programming. Among my partners are Universität der Künste Berlin, SPD, Bundesdruckerei und Leuphana Universität Lüneburg.
 
 * # 2013 - 2014
   *Research Assistant* at Universität der Künste, Design Research Lab, Project Community Infrastructuring, Developing and implementing several concepts for researching and improving neighbourly interactions in urban communities.
 
 * # 2010 - 2011
-  *Research Assistant* at Charité Universitaätsmedizin Berlin, Neurocure, Cognitive Neurobiolgy, Development of a camera based cage for conditioning small animals
+  *Research Assistant* at Charité Universitaätsmedizin Berlin, Neurocure, Cognitive Neurobiolgy, Development of a camera based cage for conditioning small animals and for the evaluation of their behaviours.
 
 * # 2009 - 2010
-  *Research Assistant* at AG Neurobiology, Freie Universität Berlin, work on various projects, statistical programming, teaching, data visualisation
+  *Research Assistant* at AG Neurobiology, Freie Universität Berlin, Developed various tools to track and analyze flightpaths of honeybees on radarimages. Field experiments with honeybees. Development of camera based tracking system for drosophila flies.
 
 * # 2009 - 2009
   AG Artificial Intelligence, Freie Universität Berlin, work on the RoboBee Project, programming work and field experiments
