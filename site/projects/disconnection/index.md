@@ -11,7 +11,12 @@ visible: true
 <span class="more"></span>
 
 <div class="iframe-with-asp" style="padding-bottom: 56%;">
-  <iframe src="http://player.vimeo.com/video/57468923?byline=0&amp;color=ff9933" width="600" height="338" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  <iframe width="315" height="560"
+    src="https://www.youtube.com/embed/fqqTTGCu32w?si=Z3aaPAUcjv7wd-Yr"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
 </div>
 
 Focusing on altering the humans natural senses and perception with the help of digital artifacts, we came up with the idea of constructing two devices, which let people merge their perspectives, creating a whole new body experience for its users.
